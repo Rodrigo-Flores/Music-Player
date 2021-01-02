@@ -1,2 +1,1 @@
-# Music-Player
-MP3 player based in Python 3.
+# Music Player by Rodrigo Flores
